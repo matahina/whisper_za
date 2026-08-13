@@ -1,3 +1,6 @@
+**REPOSITORY ARCHIVED**
+See [transcripts-made-easy](https://github.com/matahina/transcripts-made-easy)
+
 # whisper_za
 A python script to use some south african languages with [whisper](https://github.com/openai/whisper)
 
